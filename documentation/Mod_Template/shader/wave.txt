@@ -6,8 +6,8 @@ uniform float iFrame;
 
 // Have fun with those values
 //
-const float LENGTH = 120.0;
-const float STRENGTH = 0.01;
+const float LENGTH = 0.0;
+const float STRENGTH = 0.0;
 
 vec4 main(vec2 xy) 
 {
