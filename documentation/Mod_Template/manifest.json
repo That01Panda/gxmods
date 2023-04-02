@@ -1,6 +1,6 @@
 {
-    "name": "That01Panda's Mod",
-    "description": "That01Panda's mod",
+    "name": "That01Panda's Mod 2.0",
+    "description": "That01Panda's mod improved",
     "developer":
     {
         "name": "That01Panda"
@@ -180,5 +180,5 @@
         },
         "schema_version": 1
     },
-    "version": "2.0"
+    "version": "1.0"
 }
