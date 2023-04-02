@@ -165,13 +165,14 @@
                 "dark":
                 {   
                     "image": "wallpaper/statue.png",
+                    "first_frame": "wallpaper/steve.png",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#757575"
                 },
                 "light":
                 {
                     "image": "wallpaper/opening door.jfif",
-                    "first_frame": "wallpaper/first_frame.jpeg",
+                    "first_frame": "wallpaper/steve.png",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#0B000E"
                 }
