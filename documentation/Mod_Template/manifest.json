@@ -171,7 +171,7 @@
                 },
                 "light":
                 {
-                    "image": "wallpaper/opening door.jfif",
+                    "image": "wallpaper/opening door.png",
                     "first_frame": "wallpaper/steve.png",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#0B000E"
